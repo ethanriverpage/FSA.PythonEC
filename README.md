@@ -1,6 +1,19 @@
-# FSA.PythonEC
+# Sample Python programs
 
-## Python mitigation
+> This was done as part of an assessment for Fullstack Academy, used to test knowledge of writing Python, managing libraries, among others.
+
+#### 1. Sys library usage test (`systest()`)
+Demonstrates the usage of the 'sys' library in python to read user input.
+#### 2. Fibonacci test (`fibonacci()`)
+Imports a library for the fibonacci sequence and allows user specified power to calculate of the Fibonacci sequence.
+#### 3. Foobar test (`foobar()`)
+Used to demonstrate accessing, writing, and manipulating files in Python
+#### 4. Pythagorean theorum calculator (`pythagorea()`)
+Demonstrates using floats and mathematics within Python
+#### 5. While loop test (`whiletest()`)
+Demonstrates loops within programming and how to utilize them
+
+### Python mitigation explanation
 
 Python mitigation is the idea of avoiding security vulnerabilities within Python and using Python itself to avoid those vulnerabilities.
 
